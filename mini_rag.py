@@ -41,3 +41,9 @@ results.sort(key=lambda x : x[1] , reverse=True)
 
 for doc_id, similarity in results:
     print(f"Similarity (Query vs {doc_id}): {similarity:.4f}")
+
+# top 2 documents
+top_k = 2 
+top_results = results[:top_k]
+for doc_id, similarity in top_results:
+    print(f"Top {top_k} Similarity (Query vs {doc_id}): {similarity:.4f}")
