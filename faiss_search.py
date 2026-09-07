@@ -35,8 +35,12 @@ faiss.normalize_L2(embeddings)
 
 # Create FAISS index
 dimension = embeddings.shape[1] # Every vector I am going to store has 384 numbers
+# How many numbers are in each vector
 index = faiss.IndexFlatIP(dimension) # This creates a FAISS index that can search our vectors
-
+# creating an empty container that FAISS will use to store and search 384-dimensional vectors.
+# Create a FAISS index capable of storing/searching vectors of that size.
+# FAISS index
+# └── empty
 index.add(embeddings) # Add our vectors to the index
 
 print("Number of vectors in FAISS:", index.ntotal)
