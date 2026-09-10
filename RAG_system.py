@@ -4,7 +4,7 @@ import numpy as np
 import faiss
 
 pdf_path = "sample.pdf"
-chunks = chunking.chunk_text(pdf_path, 500, 100)
+chunks = chunking.chunk_text(pdf_path, 500, 1)
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
 text_chunk = []

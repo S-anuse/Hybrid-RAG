@@ -26,17 +26,26 @@ def chunk_text(pdf_path , chunk_size , overlap) :
     # create chunks from paragraphs
     id = 1
     curr_chunk = ""
+    curr_paragraphs = []
     chunk_page = set()
     for paragraph in paragraphs :
         if len(curr_chunk) + len(paragraph["text"]) + 1 <= chunk_size :
             curr_chunk += paragraph["text"] + "\n"
             chunk_page.add(paragraph["page"])
+            curr_paragraphs.append(paragraph)
         else :
             if curr_chunk :
                 chunks.append([curr_chunk.strip() ,pdf_path , id , chunk_page])
             id += 1
-            curr_chunk = paragraph["text"] + "\n"
-            chunk_page = {paragraph["page"]}
+            curr_chunk = ""
+            chunk_page = set()
+            curr_paragraphs = curr_paragraphs[-overlap:]
+            for p in curr_paragraphs :
+                curr_chunk += p["text"] + "\n"
+                chunk_page.add(p["page"])
+            curr_chunk += paragraph["text"] + "\n"
+            chunk_page.add(paragraph["page"])
+            curr_paragraphs.append(paragraph)
 
     if curr_chunk :
         chunks.append([curr_chunk.strip() , pdf_path , id , chunk_page])
@@ -44,5 +53,5 @@ def chunk_text(pdf_path , chunk_size , overlap) :
     return chunks
 
 
-for idx , t in enumerate(chunk_text("sample.pdf", 1000, 200)) :
+for idx , t in enumerate(chunk_text("sample.pdf", 1000, 2)) :
     print(f"Chunk {idx+1} : {t}\n\n")
