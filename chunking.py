@@ -3,7 +3,7 @@
 
 import fitz  # PyMuPDF
 
-def chunk_text(pdf_path , chunk_size , overlap) :
+def chunk_texts(pdf_path , chunk_size , overlap) :
     chunks = []
 
     doc = fitz.open(pdf_path)
@@ -53,5 +53,6 @@ def chunk_text(pdf_path , chunk_size , overlap) :
     return chunks
 
 
-for idx , t in enumerate(chunk_text("sample.pdf", 1000, 2)) :
-    print(f"Chunk {idx+1} : {t}\n\n")
+if __name__ == "__main__":
+    for idx, t in enumerate(chunk_texts("sample.pdf", 1000, 2)):
+        print(f"Chunk {idx+1} : {t}\n\n")
