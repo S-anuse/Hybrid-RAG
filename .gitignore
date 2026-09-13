@@ -2,3 +2,4 @@
 .venv/
 sample.pdf
 Sample/
+__pycache__/

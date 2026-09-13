@@ -28,6 +28,11 @@ chunk_text = chunking.chunk_texts(pdf_path,CHUNK_SIZE,OVERLAP)
 
 print("Total chunks:", len(chunk_text))
 
+if len(chunk_text) == 0:
+    print("No chunks were extracted from the PDF.")
+    print("Please check whether the PDF can be opened/read correctly.")
+    exit()
+
 
 print("\nLoading embedding model...")
 
