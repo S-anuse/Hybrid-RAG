@@ -1,0 +1,1315 @@
+[
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "What is the main purpose of the FutureU for Mental Health study?",
+    "relevant_chunk_ids": [
+      2,
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "To assess the feasibility, acceptability, and proof of concept of a VR-based intervention targeting thoughts of the future and the future self, with the aim of reducing negative affect, depression, and suicidal ideation.",
+    "question_type": "purpose"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "Why can future-oriented thinking be particularly effortful for people with depression or suicidal ideation?",
+    "relevant_chunk_ids": [
+      5
+    ],
+    "relevant_pages": [
+      2,
+      3,
+      4
+    ],
+    "expected_answer": "Executive-function deficits can make future-oriented thought difficult, and depression is associated with negative memory bias, overgeneralization, rigidity, and difficulty with inhibition and initiation.",
+    "question_type": "concept"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "What is the constructive episodic simulation hypothesis as described in the study?",
+    "relevant_chunk_ids": [
+      5
+    ],
+    "relevant_pages": [
+      2,
+      3,
+      4
+    ],
+    "expected_answer": "Episodic future thoughts are constructed by flexibly recombining elements of episodic memory to create a novel imagined future situation.",
+    "question_type": "concept"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "Why does the protocol propose using virtual reality to support future thinking?",
+    "relevant_chunk_ids": [
+      5,
+      6
+    ],
+    "relevant_pages": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "expected_answer": "VR can scaffold vivid, sensory, and visual experiences of a person's future self, potentially reducing reliance on overburdened cognitive processes.",
+    "question_type": "why"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "How many parts make up FutureU for Mental Health, and what is special about two of them?",
+    "relevant_chunk_ids": [
+      6
+    ],
+    "relevant_pages": [
+      3,
+      4,
+      5
+    ],
+    "expected_answer": "The intervention has three parts; two occur in virtual reality and are the novel VR components addressing different functions of future thinking.",
+    "question_type": "fact"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "What is the purpose of the coping or safety planning session?",
+    "relevant_chunk_ids": [
+      6,
+      7
+    ],
+    "relevant_pages": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "expected_answer": "It prepares participants to anticipate difficult emotional moments, identify coping resources or reasons for living, and use a plan to cope when distress occurs.",
+    "question_type": "purpose"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "How is the participant's 10-year older self used in the VR intervention?",
+    "relevant_chunk_ids": [
+      8
+    ],
+    "relevant_pages": [
+      5,
+      6,
+      7
+    ],
+    "expected_answer": "Participants see and interact with a personalized 10-year older future-self avatar to increase embodiment and enrich their sense of themselves in the future.",
+    "question_type": "procedure"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "What outcomes do the researchers hypothesize will improve after FutureU?",
+    "relevant_chunk_ids": [
+      9
+    ],
+    "relevant_pages": [
+      6,
+      7,
+      8
+    ],
+    "expected_answer": "They expect reductions in negative affect, depressive symptoms, and suicidal-ideation severity/frequency, with improvements in mood and the quality of future and future-self mental imagery.",
+    "question_type": "hypothesis"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "How are participants recruited and screened in the FutureU trial?",
+    "relevant_chunk_ids": [
+      10
+    ],
+    "relevant_pages": [
+      7,
+      8,
+      9
+    ],
+    "expected_answer": "Participants are recruited from the community in Freiburg im Breisgau using flyers and the Max Planck Institute's MAXLab SONA system, then screened with the PHQ-9 and the BDI-II suicide item.",
+    "question_type": "method"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "What VR hardware and virtual environment are planned for the study?",
+    "relevant_chunk_ids": [
+      11
+    ],
+    "relevant_pages": [
+      8,
+      9,
+      10
+    ],
+    "expected_answer": "The study uses a VIVE Pro headset and controllers; the virtual environment is a therapist's office built with Unity Pro that changes between present-day and a version 10 years in the future.",
+    "question_type": "equipment"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "What is the goal of the self-help intervention in FutureU?",
+    "relevant_chunk_ids": [
+      12,
+      13
+    ],
+    "relevant_pages": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "expected_answer": "It aims to practice coping skills and improve self-efficacy for helping oneself during moments of distress.",
+    "question_type": "purpose"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "What happens when participants embody the future self during the self-help intervention?",
+    "relevant_chunk_ids": [
+      13
+    ],
+    "relevant_pages": [
+      10,
+      11,
+      12
+    ],
+    "expected_answer": "They revisit the difficult future moment through the future self's perspective, listen to their recorded coping statements, and reflect on what they learned and how to apply it.",
+    "question_type": "procedure"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "What does the positive future memories intervention aim to change?",
+    "relevant_chunk_ids": [
+      13,
+      14
+    ],
+    "relevant_pages": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "expected_answer": "It aims to improve mood and future self-image by increasing the valence and vividness of autobiographical future thought.",
+    "question_type": "purpose"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "What is the Prospective Imagery Task used to measure?",
+    "relevant_chunk_ids": [
+      15
+    ],
+    "relevant_pages": [
+      12,
+      13,
+      14
+    ],
+    "expected_answer": "It measures the vividness of mental images generated for positive and negative future scenarios.",
+    "question_type": "measure"
+  },
+  {
+    "source": "A virtual‑reality based intervention.pdf",
+    "question": "How does the protocol respond when a participant reports suicidal ideation?",
+    "relevant_chunk_ids": [
+      18,
+      19
+    ],
+    "relevant_pages": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "expected_answer": "A trained therapist reviews the participant's responses and, when indicated, conducts a Safety Planning intervention in place of the Coping Plan, with clinical consultation for significant risk.",
+    "question_type": "safety"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "Why does the comment argue that psychedelic-assisted therapy faces challenges despite promising therapeutic findings?",
+    "relevant_chunk_ids": [
+      2
+    ],
+    "relevant_pages": [
+      1
+    ],
+    "expected_answer": "It highlights regulatory complexity, methodological limitations such as small and heterogeneous studies, and safety concerns involving intense emotional or sensory experiences.",
+    "question_type": "concept"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "Which psychedelic compounds are named in the article, and which receptor do they primarily act on?",
+    "relevant_chunk_ids": [
+      2
+    ],
+    "relevant_pages": [
+      1
+    ],
+    "expected_answer": "Psilocybin, LSD, and MDMA are named; the article states that these serotonergic compounds primarily act as agonists of the 5-HT2A receptor.",
+    "question_type": "fact"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "Which acute subjective effects of psychedelic sessions are discussed as possible predictors of later therapeutic outcomes?",
+    "relevant_chunk_ids": [
+      2
+    ],
+    "relevant_pages": [
+      1
+    ],
+    "expected_answer": "Mystical-type experiences, emotional breakthroughs, feelings of unity and connectedness, and psychological insights are identified.",
+    "question_type": "fact"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "What is meant by AI-generated VR psychedelics in the comment?",
+    "relevant_chunk_ids": [
+      2
+    ],
+    "relevant_pages": [
+      1
+    ],
+    "expected_answer": "It is a proposed approach that combines immersive VR with generative AI to create more sophisticated, controllable psychedelic-like experiences.",
+    "question_type": "definition"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "How does the proposed approach relate to the field of 'cyberdelics'?",
+    "relevant_chunk_ids": [
+      2
+    ],
+    "relevant_pages": [
+      1
+    ],
+    "expected_answer": "The authors describe AI-generated VR psychedelics as an evolution of cyberdelics, using generative AI to make psychedelic-like experiences more controllable and sophisticated.",
+    "question_type": "concept"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "What role does DeepDream play in the proposed AI-generated VR psychedelic approach?",
+    "relevant_chunk_ids": [
+      2,
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "DeepDream is used to generate controlled visual alterations that can capture aspects of psychedelic visual experiences.",
+    "question_type": "technology"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "How does DeepDream produce the hallucinatory visual effects described in the article?",
+    "relevant_chunk_ids": [
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "It amplifies visual features preferred by a chosen hidden CNN layer, iteratively modifying the input image and reversing information flow until the network stabilizes.",
+    "question_type": "mechanism"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "What aspects of cognitive control are discussed in relation to psychedelic-like VR experiences?",
+    "relevant_chunk_ids": [
+      3,
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "The comment discusses cognitive flexibility, inhibitory control, task switching, and the ability to shift, suppress, and adapt in dynamic environments.",
+    "question_type": "concept"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "What effects did the cited AI-generated hallucinatory VR study report on cognition and physiology?",
+    "relevant_chunk_ids": [
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "Participants showed enhanced cognitive flexibility and inhibitory control together with reduced state anxiety, heart rate, and sympathetic activity.",
+    "question_type": "evidence"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "How does the comment connect AI-generated VR psychedelics with predictive coding and REBUS?",
+    "relevant_chunk_ids": [
+      3,
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "It proposes that unexpected VR-induced prediction errors may recalibrate precision weighting and cognitive priors, supporting a form of cognitive relaxation consistent with REBUS.",
+    "question_type": "mechanism"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "What is a fundamental difference between VR psychedelic simulations and traditional serotonergic psychedelics?",
+    "relevant_chunk_ids": [
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "VR simulations are non-pharmacological and do not directly stimulate the biological pathways that serotonergic psychedelics use to promote neural plasticity.",
+    "question_type": "comparison"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "Why might AI-generated VR psychedelic experiences be useful for clinical research?",
+    "relevant_chunk_ids": [
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "They can provide controlled and reproducible altered states, helping researchers systematically investigate which aspects of subjective experience contribute to therapeutic outcomes.",
+    "question_type": "application"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "What potential role does VR play in post-session integration according to the comment?",
+    "relevant_chunk_ids": [
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "It can let patients revisit significant visual elements later in controlled, sober states, turning abstract memories into material for deeper processing.",
+    "question_type": "application"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "What advantage does the comment suggest AI-generated VR could offer for personalization?",
+    "relevant_chunk_ids": [
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "The approach can adapt psychedelic-like experiences to individual preferences and therapeutic needs, with more flexibility to adjust duration or stop overwhelming experiences.",
+    "question_type": "personalization"
+  },
+  {
+    "source": "AI-generated virtual psychedelics bridge.pdf",
+    "question": "What major limitation does the comment identify about the durability of VR psychedelic effects?",
+    "relevant_chunk_ids": [
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "The sustainability of the acute cognitive-flexibility improvements produced by VR-based interventions remains unknown, unlike the established potential for lasting effects from classical psychedelics.",
+    "question_type": "limitation"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "What is facial expression recognition (FER)?",
+    "relevant_chunk_ids": [
+      2,
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "FER is the process of detecting or classifying human emotions from facial expressions in images or videos.",
+    "question_type": "definition"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "Which emotions are treated as the fundamental facial-expression categories in the review?",
+    "relevant_chunk_ids": [
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "The review discusses six basic emotions—anger, fear, happiness, disgust, surprise, and sadness—and notes the addition of contempt as a seventh category.",
+    "question_type": "fact"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "What do valence and arousal represent in the review's two-dimensional emotion model?",
+    "relevant_chunk_ids": [
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "Valence represents how pleasant or unpleasant an emotion is, while arousal represents the level of activation or intensity.",
+    "question_type": "definition"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "Why are uncontrolled or 'in the wild' datasets important for FER research?",
+    "relevant_chunk_ids": [
+      8,
+      9
+    ],
+    "relevant_pages": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "expected_answer": "They expose models to real-world variations and unexpected contexts, making evaluation more representative of practical deployment.",
+    "question_type": "why"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "What are the main stages of a traditional pre-deep-learning FER pipeline discussed in the review?",
+    "relevant_chunk_ids": [
+      13,
+      14
+    ],
+    "relevant_pages": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "expected_answer": "Traditional FER relies on preprocessing/face detection, feature extraction, and machine-learning-based classification.",
+    "question_type": "pipeline"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "How does the Viola–Jones approach contribute to FER preprocessing?",
+    "relevant_chunk_ids": [
+      14,
+      15
+    ],
+    "relevant_pages": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "expected_answer": "It performs face detection using a cascade of classifiers over grayscale subregions and was designed to handle faces at different positions and scales.",
+    "question_type": "method"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "Which traditional handcrafted features are highlighted as widely used in FER?",
+    "relevant_chunk_ids": [
+      17,
+      18
+    ],
+    "relevant_pages": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "expected_answer": "LBP, Gabor filters, and HOG are highlighted because they effectively capture texture or facial-structure information.",
+    "question_type": "features"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "What is the role of PCA in traditional FER feature processing?",
+    "relevant_chunk_ids": [
+      18,
+      19
+    ],
+    "relevant_pages": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "expected_answer": "PCA reduces the dimensionality of the feature space while retaining important information, which can reduce storage needs and computation.",
+    "question_type": "method"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "Why did deep learning become attractive for FER compared with many traditional approaches?",
+    "relevant_chunk_ids": [
+      19,
+      20,
+      21
+    ],
+    "relevant_pages": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "expected_answer": "Advances in hardware such as GPUs, the ability of deep models to learn hierarchical representations automatically, and better scalability contributed to its adoption.",
+    "question_type": "why"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "How are CNNs and LSTMs combined in a hybrid FER approach described in the review?",
+    "relevant_chunk_ids": [
+      28
+    ],
+    "relevant_pages": [
+      25,
+      26,
+      27
+    ],
+    "expected_answer": "CNNs extract spatial features from frames, and the LSTM processes those features to capture temporal dependencies across successive frames.",
+    "question_type": "architecture"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "What problem do GRUs and LSTMs address in sequential facial-expression recognition?",
+    "relevant_chunk_ids": [
+      24,
+      25,
+      26
+    ],
+    "relevant_pages": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "expected_answer": "They help model sequential dependencies and address limitations of traditional RNNs when learning longer-term dependencies.",
+    "question_type": "architecture"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "What is the main purpose of GANs in FER according to the review?",
+    "relevant_chunk_ids": [
+      27,
+      38
+    ],
+    "relevant_pages": [
+      24,
+      25,
+      26,
+      35,
+      36,
+      37
+    ],
+    "expected_answer": "GANs can synthesize realistic facial images and are used especially for data augmentation and improving robustness when training FER models.",
+    "question_type": "application"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "What is distinctive about graph-based approaches for facial expression recognition?",
+    "relevant_chunk_ids": [
+      32,
+      38
+    ],
+    "relevant_pages": [
+      29,
+      30,
+      31,
+      35,
+      36,
+      37
+    ],
+    "expected_answer": "They model relationships among facial landmarks or regions as a graph, allowing the model to capture relational structure rather than treating features as isolated fixed points.",
+    "question_type": "architecture"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "What are some of the major 2024–2025 FER directions highlighted by the review?",
+    "relevant_chunk_ids": [
+      43,
+      46,
+      47
+    ],
+    "relevant_pages": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "expected_answer": "The review highlights graph neural networks, multimodal FER combining vision with speech/physiology, edge-oriented FER, zero-shot FER, and few-shot FER.",
+    "question_type": "future"
+  },
+  {
+    "source": "p7(1).pdf",
+    "question": "What kinds of datasets are discussed in the review's FER taxonomy?",
+    "relevant_chunk_ids": [
+      47,
+      50,
+      53,
+      54
+    ],
+    "relevant_pages": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "expected_answer": "Datasets are organized by data type (images or videos), controlled versus uncontrolled environments, and other characteristics such as year and source.",
+    "question_type": "taxonomy"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "What does the 2024 FER survey identify as two major challenges for deep FER systems?",
+    "relevant_chunk_ids": [
+      2
+    ],
+    "relevant_pages": [
+      1
+    ],
+    "expected_answer": "It highlights overfitting caused by limited training data and expression-unrelated variations such as illumination, head pose, image resolution, and identity bias.",
+    "question_type": "challenge"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "What are the six basic emotions and the additional seventh emotion discussed in the survey?",
+    "relevant_chunk_ids": [
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "Anger, fear, happiness, disgust, surprise, and sadness are the six basic emotions, with contempt added as a seventh.",
+    "question_type": "fact"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "How are valence and arousal arranged in the survey's two-dimensional emotion model?",
+    "relevant_chunk_ids": [
+      3,
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "Valence describes pleasantness versus unpleasantness, and arousal describes activation; the two dimensions form four quadrants.",
+    "question_type": "concept"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "How does the survey categorize FER datasets?",
+    "relevant_chunk_ids": [
+      8,
+      39
+    ],
+    "relevant_pages": [
+      5,
+      6,
+      7,
+      36,
+      37,
+      38
+    ],
+    "expected_answer": "Datasets are first separated by data type (images or sequences/videos), then by controlled versus uncontrolled environments, with additional organization by creation year.",
+    "question_type": "taxonomy"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "What is the role of face detection in a traditional FER pipeline?",
+    "relevant_chunk_ids": [
+      13,
+      14
+    ],
+    "relevant_pages": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "expected_answer": "It locates the face and provides the region or coordinates used for subsequent feature extraction and classification.",
+    "question_type": "pipeline"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "Why is face alignment useful before extracting FER features?",
+    "relevant_chunk_ids": [
+      14,
+      15
+    ],
+    "relevant_pages": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "expected_answer": "It normalizes facial geometry so that subsequent processing can focus on comparable facial regions despite pose or positional variation.",
+    "question_type": "preprocessing"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "Which handcrafted feature methods does the survey discuss for traditional FER?",
+    "relevant_chunk_ids": [
+      17,
+      18
+    ],
+    "relevant_pages": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "expected_answer": "LBP, Gabor filters, HOG and related handcrafted descriptors are discussed as traditional feature-extraction techniques.",
+    "question_type": "features"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "What benefits of dimensionality reduction are mentioned?",
+    "relevant_chunk_ids": [
+      19,
+      20
+    ],
+    "relevant_pages": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "expected_answer": "It reduces storage requirements and training computation while retaining important information in a smaller feature space.",
+    "question_type": "benefit"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "What is the main idea behind the Dynamic Attentive Center Loss (DACL) discussed in the survey?",
+    "relevant_chunk_ids": [
+      26
+    ],
+    "relevant_pages": [
+      23,
+      24,
+      25
+    ],
+    "expected_answer": "DACL incorporates attention using intermediate CNN spatial feature maps so the model can emphasize more discriminative facial features.",
+    "question_type": "loss"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "What is the main purpose of an ensemble network in FER?",
+    "relevant_chunk_ids": [
+      27
+    ],
+    "relevant_pages": [
+      24,
+      25,
+      26
+    ],
+    "expected_answer": "It is primarily used to improve classification accuracy by combining the strengths of multiple base classifiers, not merely for data augmentation.",
+    "question_type": "ensemble"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "Why can multitask learning be difficult to optimize in FER?",
+    "relevant_chunk_ids": [
+      29
+    ],
+    "relevant_pages": [
+      26,
+      27,
+      28
+    ],
+    "expected_answer": "The relative weighting of the individual tasks affects performance, so determining appropriate task weights is a key challenge.",
+    "question_type": "multitask"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "What are the main components of the FER model reported by Huang et al. that achieved very high performance?",
+    "relevant_chunk_ids": [
+      30
+    ],
+    "relevant_pages": [
+      27,
+      28,
+      29
+    ],
+    "expected_answer": "It combines a primary deep model such as AlexNet or Inception, dual attention mechanisms (Grid-Wise and Visual Transformer Attention), and an FER module for expression differentiation.",
+    "question_type": "architecture"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "How does the FER-former architecture use attention and embedding integration?",
+    "relevant_chunk_ids": [
+      34
+    ],
+    "relevant_pages": [
+      31,
+      32,
+      33
+    ],
+    "expected_answer": "FER-former uses Multi-Granularity Embedding Integration, hybrid self-attention, and Heterogeneous Domains-Steering Supervision, with text embedded into multi-head self-attention.",
+    "question_type": "transformer"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "What are Frame Averaging and Frame Expansion used for in sequential FER?",
+    "relevant_chunk_ids": [
+      35
+    ],
+    "relevant_pages": [
+      32,
+      33,
+      34
+    ],
+    "expected_answer": "They aggregate frame-level outputs into fixed-length representations so sequences with different numbers of frames can be compared or processed consistently.",
+    "question_type": "sequential"
+  },
+  {
+    "source": "p8(1).pdf",
+    "question": "What is the role of a spatiotemporal FER network?",
+    "relevant_chunk_ids": [
+      36
+    ],
+    "relevant_pages": [
+      33,
+      34,
+      35
+    ],
+    "expected_answer": "It processes a temporal sequence of frames to capture both spatial/textural cues and temporal information, helping recognize subtler expressions.",
+    "question_type": "sequential"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "What is the main aim of the Virtu-ACT virtual reality program?",
+    "relevant_chunk_ids": [
+      2,
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "It aims to promote psychological flexibility and reduce mental-health stigma among university students using a VR program based on Acceptance and Commitment Therapy.",
+    "question_type": "purpose"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "How many students participated in the Virtu-ACT trial, and how were they divided between experimental and control groups?",
+    "relevant_chunk_ids": [
+      2,
+      6
+    ],
+    "relevant_pages": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "expected_answer": "There were 208 students; the experimental group had 143 students and the control group had 67.",
+    "question_type": "fact"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "Which three broad strategies for reducing mental-health stigma are described in the paper?",
+    "relevant_chunk_ids": [
+      2,
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "The paper describes protest, education, and contact.",
+    "question_type": "fact"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "How does Relational Frame Theory help explain stigma in the paper?",
+    "relevant_chunk_ids": [
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "It proposes that people learn relationships between stimuli beyond their physical properties, allowing 'mental disorder' to become associated with aversive responses such as fear and avoidance.",
+    "question_type": "theory"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "How does the paper define psychological flexibility?",
+    "relevant_chunk_ids": [
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "It is the ability to observe and respond to private events while acting in line with one's values and personal meaning.",
+    "question_type": "definition"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "How is the Virtu-ACT program structured?",
+    "relevant_chunk_ids": [
+      4,
+      5
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "expected_answer": "It contains nine experiential ACT-based exercises, lasts about 15 minutes, is built in Unity, and includes a virtual therapist guiding the participant.",
+    "question_type": "program"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "What is the purpose of the 'pink elephant' exercise?",
+    "relevant_chunk_ids": [
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "It demonstrates how difficult it can be to deliberately eliminate or control private thoughts, since trying not to think about something can keep the thought active.",
+    "question_type": "exercise"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "What does the lemon exercise teach participants?",
+    "relevant_chunk_ids": [
+      4
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3
+    ],
+    "expected_answer": "It encourages participants to observe thoughts and sensations without trying to eliminate or control them and to treat thoughts as thoughts that can come and go.",
+    "question_type": "exercise"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "What is illustrated by the red-button exercise in Virtu-ACT?",
+    "relevant_chunk_ids": [
+      5
+    ],
+    "relevant_pages": [
+      2,
+      3,
+      4
+    ],
+    "expected_answer": "It demonstrates that struggling to control or eliminate uncomfortable thoughts can pull attention away from valued activity; instead, participants are encouraged to notice thoughts without letting them dictate behavior.",
+    "question_type": "exercise"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "What happens in the bus exercise?",
+    "relevant_chunk_ids": [
+      5
+    ],
+    "relevant_pages": [
+      2,
+      3,
+      4
+    ],
+    "expected_answer": "Participants observe a conversation between passengers about mental health and therapy and are encouraged to reflect on discomfort and avoid stigma through getting to know people rather than relying on social stereotypes.",
+    "question_type": "exercise"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "How did the experimental and control groups differ immediately after the intervention?",
+    "relevant_chunk_ids": [
+      7
+    ],
+    "relevant_pages": [
+      4,
+      5,
+      6
+    ],
+    "expected_answer": "The experimental group showed significant reductions in stigma and improvements in psychological flexibility/inflexibility measures, while the control group's changes were not significant.",
+    "question_type": "results"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "Which statistical test was used to compare the pretest and post-test means within groups?",
+    "relevant_chunk_ids": [
+      7
+    ],
+    "relevant_pages": [
+      4,
+      5,
+      6
+    ],
+    "expected_answer": "The Wilcoxon test was used because the responses were non-parametric.",
+    "question_type": "statistics"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "Were the intervention effects maintained at the one-week follow-up?",
+    "relevant_chunk_ids": [
+      8
+    ],
+    "relevant_pages": [
+      5,
+      6,
+      7
+    ],
+    "expected_answer": "Yes. Significant differences found in the experimental group remained at the one-week follow-up, while the control group's responses remained comparatively stable.",
+    "question_type": "followup"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "What limitations do the authors identify for generalizing the Virtu-ACT findings?",
+    "relevant_chunk_ids": [
+      9
+    ],
+    "relevant_pages": [
+      6,
+      7,
+      8
+    ],
+    "expected_answer": "The measures were self-reported, the sample consisted of university students, and the study therefore may not generalize to the wider population; longer follow-up and additional measures are suggested.",
+    "question_type": "limitations"
+  },
+  {
+    "source": "Virtu-act a virtual reality program for mental health stigma.pdf",
+    "question": "What overall conclusion did the authors draw about Virtu-ACT?",
+    "relevant_chunk_ids": [
+      8,
+      9
+    ],
+    "relevant_pages": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "expected_answer": "The authors concluded that the VR program reduced stigma and promoted psychological flexibility, with the effects maintained at one-week follow-up, while noting the need for broader and longer-term research.",
+    "question_type": "conclusion"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "What was the main purpose of the virtual-nature study?",
+    "relevant_chunk_ids": [
+      2
+    ],
+    "relevant_pages": [
+      1
+    ],
+    "expected_answer": "To compare mental-health outcomes between high- and low-immersion VR natural experiences.",
+    "question_type": "purpose"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "How were the two immersion conditions implemented?",
+    "relevant_chunk_ids": [
+      2,
+      5
+    ],
+    "relevant_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "expected_answer": "Participants viewed identical prerecorded 360° natural scenes and sounds either through a head-mounted display (higher immersion) or a smartphone (lower immersion).",
+    "question_type": "method"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "How long did each VR natural-experience session last and how often was it conducted?",
+    "relevant_chunk_ids": [
+      2
+    ],
+    "relevant_pages": [
+      1
+    ],
+    "expected_answer": "Each session lasted 30 minutes and was conducted once a week for 12 weeks.",
+    "question_type": "procedure"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "What were the key overall findings about higher versus lower immersion?",
+    "relevant_chunk_ids": [
+      2,
+      9
+    ],
+    "relevant_pages": [
+      1,
+      6,
+      7,
+      8
+    ],
+    "expected_answer": "Higher-immersion HMD experiences produced greater improvements in happiness, self-rated health, several QOL dimensions, and reductions in distress, depression, and somatization compared with the lower-immersion smartphone condition.",
+    "question_type": "results"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "What is the distinction between immersion and presence in the study?",
+    "relevant_chunk_ids": [
+      2
+    ],
+    "relevant_pages": [
+      1
+    ],
+    "expected_answer": "Immersion is the objective capability of the technology to deliver a surrounding and vivid illusion, while presence is the psychological sense of being in the virtual environment.",
+    "question_type": "definition"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "Why are head-mounted displays generally more immersive than smartphone-based VR?",
+    "relevant_chunk_ids": [
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "HMDs provide a wider field of view, higher-fidelity audio, motion tracking, and a stable fit that reduces distraction and enhances immersion.",
+    "question_type": "comparison"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "What kinds of sensory stimuli can be used in VR natural experiences?",
+    "relevant_chunk_ids": [
+      3
+    ],
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "expected_answer": "The study discusses visual and auditory stimuli as common elements, with other possible stimuli including wind, scent, touch, vibration, and temperature.",
+    "question_type": "sensory"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "How many participants completed the interventions in the HMD and smartphone groups?",
+    "relevant_chunk_ids": [
+      6
+    ],
+    "relevant_pages": [
+      3,
+      4,
+      5
+    ],
+    "expected_answer": "Thirty participants completed the HMD intervention and 24 completed the smartphone intervention.",
+    "question_type": "fact"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "Which baseline characteristics differed significantly between the HMD and smartphone groups?",
+    "relevant_chunk_ids": [
+      6
+    ],
+    "relevant_pages": [
+      3,
+      4,
+      5
+    ],
+    "expected_answer": "Age and several baseline mental-health scores differed significantly, including happiness, self-rated health, physical/mental/environmental QOL, distress, depression, and somatization.",
+    "question_type": "baseline"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "Which mental-health outcomes improved significantly within the HMD group after the intervention?",
+    "relevant_chunk_ids": [
+      7
+    ],
+    "relevant_pages": [
+      4,
+      5,
+      6
+    ],
+    "expected_answer": "Happiness increased significantly within the HMD group; other outcomes did not all show significant within-group changes.",
+    "question_type": "results"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "What did the GEE analysis show about group differences?",
+    "relevant_chunk_ids": [
+      7
+    ],
+    "relevant_pages": [
+      4,
+      5,
+      6
+    ],
+    "expected_answer": "The HMD group generally moved in a more favorable direction than the smartphone group across happiness, self-rated health, QOL measures, distress, depression, and somatization, with several significant group or group-by-time effects.",
+    "question_type": "statistics"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "What major design limitation weakens the interpretation of the immersion comparison?",
+    "relevant_chunk_ids": [
+      8
+    ],
+    "relevant_pages": [
+      5,
+      6,
+      7
+    ],
+    "expected_answer": "The study used a cluster trial without randomization, and the two groups differed substantially at baseline, which may confound changes attributed to immersion.",
+    "question_type": "limitations"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "Why did the researchers consider lack of a no-intervention control group a limitation?",
+    "relevant_chunk_ids": [
+      8
+    ],
+    "relevant_pages": [
+      5,
+      6,
+      7
+    ],
+    "expected_answer": "Without a no-intervention control, improvements cannot be attributed exclusively to the VR intervention because other factors could also contribute to changes over time.",
+    "question_type": "limitations"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "What is one potential confounding factor related to the smartphone condition?",
+    "relevant_chunk_ids": [
+      8
+    ],
+    "relevant_pages": [
+      5,
+      6,
+      7
+    ],
+    "expected_answer": "Participants used different smartphones, so variation in screen resolution, sound quality, and user experience could introduce bias.",
+    "question_type": "confound"
+  },
+  {
+    "source": "Virtual reality natural experiences for mental health comparing.pdf",
+    "question": "What conclusion did the authors reach about immersion level and mental-health promotion?",
+    "relevant_chunk_ids": [
+      9
+    ],
+    "relevant_pages": [
+      6,
+      7,
+      8
+    ],
+    "expected_answer": "They recommended higher-immersion HMD-based VR natural experiences as a promising way to promote mental health, while cautioning that the very different group characteristics limit interpretation.",
+    "question_type": "conclusion"
+  }
+]
